@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestfulWebServicesApplication<restful-web-services>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication",
+            "projectName": "restful-web-services",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestfulwebservicesApplication<restful-web-services>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.rest.webservices.restfulwebservices.RestfulwebservicesApplication",
+            "projectName": "restful-web-services",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestfulwebservicesApplication<restfulwebservices>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.in28minutes.rest.webservices.restfulwebservices.RestfulwebservicesApplication",
+            "projectName": "restfulwebservices",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
